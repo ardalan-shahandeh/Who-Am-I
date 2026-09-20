@@ -2,26 +2,26 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=ARDALAN%20SHAHANDEH&fontSize=48&fontColor=67E8F9&animation=fadeIn&fontAlignY=42&stroke=7C3AED&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=020420&height=220&section=header&text=ARDALAN%20SHAHANDEH&fontSize=46&fontColor=00DC82&animation=fadeIn&fontAlignY=42&stroke=00DC82&strokeWidth=1" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=%3E+Frontend+Developer;%3E+Vue.js+%2F+Nuxt+%2F+TypeScript;%3E+AI+%2B+Software+Engineering;%3E+Building+things+that+shouldn't+exist+yet...;%3E+Build.+Break.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00DC82&center=true&vCenter=true&width=760&lines=%3E+Frontend+Developer;%3E+Vue.js+%7C+Nuxt+%7C+TypeScript;%3E+AI+%2B+Software+Engineering;%3E+Building+things+that+matter.;%3E+Build.+Learn.+Improve.+Repeat." />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/ROLE-FRONTEND%20ENGINEER-7C3AED?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB-06B6D4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00DC82?style=for-the-badge&labelColor=020420" />
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20%2B%20AI-00E5FF?style=for-the-badge&labelColor=020420" />
+<img src="https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-00C58E?style=for-the-badge&labelColor=020420" />
 
 <br/><br/>
 
 <a href="https://github.com/ardalan-shahandeh">
-<img src="https://img.shields.io/github/followers/ardalan-shahandeh?style=flat-square&logo=github&logoColor=white&label=Followers&color=7C3AED&labelColor=161B22" />
+<img src="https://img.shields.io/github/followers/ardalan-shahandeh?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&color=00DC82&labelColor=020420" />
 </a>
 
 <a href="https://github.com/ardalan-shahandeh">
-<img src="https://komarev.com/ghpvc/?username=ardalan-shahandeh&style=flat-square&label=Profile%20Views&color=06B6D4&labelColor=161B22" />
+<img src="https://komarev.com/ghpvc/?username=ardalan-shahandeh&style=flat-square&label=PROFILE+VIEWS&color=00E5FF&labelColor=020420" />
 </a>
 
 </div>
@@ -30,57 +30,47 @@
 
 <div align="center">
 
-## `> whoami`
+## `~/ardalan`
 
-### **Ardalan Shahandeh**
-
-**Frontend Developer · AI Builder · Software Engineer**
-
-5+ years building modern web applications with a strong focus on **Vue.js, Nuxt, TypeScript, architecture and performance**.
-
-Currently exploring the intersection of **Frontend Engineering × AI × Developer Tooling**.
+### Frontend Developer × AI Builder
 
 </div>
 
-<br/>
-
-```ts
-const ardalan = {
-  experience: "5+ years",
-
-  primaryStack: [
-    "Vue.js",
-    "Nuxt",
-    "TypeScript"
-  ],
-
-  expandingInto: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "Docker",
-    "AI Engineering"
-  ],
-
-  currentMission: [
-    "Build AI-powered products",
-    "Create scalable frontend systems",
-    "Explore AI agents & LLM applications"
-  ],
-
-  philosophy: "Build → Learn → Improve → Repeat"
-};
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  $ whoami                                                    │
+│                                                              │
+│  Ardalan Shahandeh                                           │
+│  Frontend Developer                                          │
+│                                                              │
+│  > 5+ years building modern web applications                │
+│                                                              │
+│  Primary                                                   │
+│    ├── Vue.js                                                │
+│    ├── Nuxt                                                   │
+│    └── TypeScript                                             │
+│                                                              │
+│  Exploring                                                   │
+│    ├── React / Next.js                                       │
+│    ├── AI Engineering                                        │
+│    ├── Node.js                                                │
+│    └── Docker                                                 │
+│                                                              │
+│  $ echo "Build → Learn → Improve → Repeat"                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-# ⚡ `SYSTEM // TECH_STACK`
+## `⚡ TECH STACK`
 
 </div>
 
-### `01 // FRONTEND`
+### `// FRONTEND`
 
 <div align="center">
 
@@ -90,7 +80,7 @@ const ardalan = {
 
 <br/>
 
-### `02 // BACKEND & TOOLING`
+### `// BACKEND & TOOLING`
 
 <div align="center">
 
@@ -100,15 +90,15 @@ const ardalan = {
 
 <br/>
 
-### `03 // AI ENGINEERING`
+### `// AI`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPENAI-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/OPENROUTER-0D1117?style=for-the-badge&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/LLM_APIs-0D1117?style=for-the-badge&logoColor=A855F7" />
-<img src="https://img.shields.io/badge/AI_APPLICATIONS-0D1117?style=for-the-badge&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/AI_AGENTS-0D1117?style=for-the-badge&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/OPENAI-020420?style=for-the-badge&logo=openai&logoColor=00DC82" />
+<img src="https://img.shields.io/badge/OPENROUTER-020420?style=for-the-badge&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LLM_APIs-020420?style=for-the-badge&logoColor=00DC82" />
+<img src="https://img.shields.io/badge/AI_APPLICATIONS-020420?style=for-the-badge&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/AI_AGENTS-020420?style=for-the-badge&logoColor=00C58E" />
 
 </div>
 
@@ -116,7 +106,7 @@ const ardalan = {
 
 <div align="center">
 
-# 🚀 `PROJECTS // ONLINE`
+## `🚀 FEATURED PROJECTS`
 
 </div>
 
@@ -125,67 +115,79 @@ const ardalan = {
 
 <td width="50%" valign="top">
 
-<h2>🤖 Telegram AI</h2>
+<div align="center">
 
-> An AI assistant living inside Telegram.
+### 🤖 Telegram AI
 
-<br/>
+</div>
 
 ```text
-┌──────────────────────┐
-│  Telegram            │
-│       ↓              │
-│  Telegraf            │
-│       ↓              │
-│  TypeScript          │
-│       ↓              │
-│  OpenRouter          │
-│       ↓              │
-│  AI Response         │
-└──────────────────────┘
+┌─────────────────────────┐
+│                         │
+│   Telegram Message      │
+│          ↓              │
+│      Telegraf           │
+│          ↓              │
+│      TypeScript         │
+│          ↓              │
+│      OpenRouter         │
+│          ↓              │
+│      AI Response        │
+│                         │
+└─────────────────────────┘
 ```
 
-**Built with**
+AI assistant running directly inside Telegram.
+
+**Stack**
 
 `TypeScript` `Node.js` `Telegraf` `OpenRouter`
 
-<br/>
+<div align="center">
 
 <a href="https://github.com/ardalan-shahandeh/telegram-gpt-bot">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00DC82?style=for-the-badge&logo=github&logoColor=020420" />
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h2>🌐 Frontend Systems</h2>
+<div align="center">
 
-> Modern web applications engineered for scale.
+### 🌐 Web Applications
 
-<br/>
+</div>
 
 ```text
-Architecture
-     ↓
-Performance
-     ↓
-Developer Experience
-     ↓
-User Experience
-     ↓
-Scalability
+┌─────────────────────────┐
+│                         │
+│     Architecture        │
+│          ↓              │
+│      Performance        │
+│          ↓              │
+│       UX / DX            │
+│          ↓              │
+│      Scalability        │
+│                         │
+└─────────────────────────┘
 ```
 
-**Built with**
+Modern frontend systems focused on maintainability and performance.
+
+**Stack**
 
 `Vue` `Nuxt` `TypeScript` `Pinia`
 
-<br/>
+<div align="center">
 
 <a href="https://github.com/ardalan-shahandeh?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=020420" />
 </a>
+
+</div>
 
 </td>
 
@@ -196,24 +198,22 @@ Scalability
 
 <div align="center">
 
-# 🧠 `CURRENTLY_BUILDING`
-
-<br/>
+## `🧠 CURRENT MISSION`
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   🤖  AI-POWERED APPLICATIONS                       ║
-║                                                      ║
-║   ⚡  NEXT-GEN FRONTEND ARCHITECTURE                 ║
-║                                                      ║
-║   🧠  REACT + NEXT.JS                               ║
-║                                                      ║
-║   🐳  DOCKER + BACKEND TOOLING                      ║
-║                                                      ║
-║   🚀  PRODUCTS THAT SOLVE REAL PROBLEMS             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+       ┌────────────────────────────────────┐
+       │                                    │
+       │     BUILD AI-POWERED PRODUCTS      │
+       │                                    │
+       │     MASTER REACT + NEXT.JS         │
+       │                                    │
+       │     LEVEL UP BACKEND SKILLS        │
+       │                                    │
+       │     EXPLORE AI ENGINEERING         │
+       │                                    │
+       │     SHIP REAL PRODUCTS              │
+       │                                    │
+       └────────────────────────────────────┘
 ```
 
 </div>
@@ -222,19 +222,31 @@ Scalability
 
 <div align="center">
 
-# 📊 `GITHUB // TELEMETRY`
+## `📊 GITHUB ACTIVITY`
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ardalan-shahandeh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A855F7&text_color=C9D1D9&ring_color=7C3AED" />
+<a href="https://github.com/ardalan-shahandeh">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ardalan-shahandeh&show_icons=true&hide_border=true&bg_color=020420&title_color=00DC82&icon_color=00E5FF&text_color=CBD5E1&rank_icon=github&include_all_commits=true" />
+
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ardalan-shahandeh&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=6B7280" />
+<a href="https://github.com/ardalan-shahandeh">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalan-shahandeh&layout=compact&hide_border=true&bg_color=020420&title_color=00DC82&text_color=CBD5E1" />
+
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalan-shahandeh&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" />
+<a href="https://github.com/ardalan-shahandeh">
+
+<img src="https://streak-stats.demolab.com/?user=ardalan-shahandeh&hide_border=true&background=020420&ring=00DC82&fire=00E5FF&currStreakLabel=00DC82&sideLabels=CBD5E1&dates=64748B" />
+
+</a>
 
 </div>
 
@@ -242,11 +254,24 @@ Scalability
 
 <div align="center">
 
-# 🐍 `CONTRIBUTION // MATRIX`
+## `🐍 CONTRIBUTION MATRIX`
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ardalan-shahandeh/ardalan-shahandeh/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ardalan-shahandeh/ardalan-shahandeh/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ardalan-shahandeh/ardalan-shahandeh/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ardalan-shahandeh/ardalan-shahandeh/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -254,11 +279,15 @@ Scalability
 
 <div align="center">
 
-# 🏆 `ACHIEVEMENTS`
+## `🏆 ACHIEVEMENTS`
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ardalan-shahandeh&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<a href="https://github.com/ardalan-shahandeh">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ardalan-shahandeh&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</a>
 
 </div>
 
@@ -266,77 +295,71 @@ Scalability
 
 <div align="center">
 
-# 🧬 `EVOLUTION`
+## `🧬 DEVELOPER EVOLUTION`
 
 </div>
 
 ```text
-                         ┌───────────────┐
-                         │   FRONTEND    │
-                         └───────┬───────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    │                         │
-                    ▼                         ▼
-              JavaScript                  TypeScript
-                    │                         │
-                    └────────────┬────────────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    ▼                         ▼
-                  Vue.js                    React
-                    │                         │
-                    ▼                         ▼
-                  Nuxt                    Next.js
-                    │                         │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                       ┌─────────────────┐
-                       │   ARCHITECTURE  │
-                       └────────┬────────┘
-                                │
-                                ▼
-                       ┌─────────────────┐
-                       │  AI ENGINEERING │
-                       └────────┬────────┘
-                                │
-                    ┌───────────┼───────────┐
-                    ▼           ▼           ▼
-                   LLMs      AI Apps      Agents
-                                │
-                                ▼
-                       🚀 BUILD PRODUCTS
+                         ┌──────────────────┐
+                         │     FRONTEND     │
+                         └────────┬─────────┘
+                                  │
+                   ┌──────────────┴──────────────┐
+                   │                             │
+                   ▼                             ▼
+             JavaScript                     TypeScript
+                   │                             │
+                   └──────────────┬──────────────┘
+                                  │
+                   ┌──────────────┴──────────────┐
+                   ▼                             ▼
+                 Vue.js                        React
+                   │                             │
+                   ▼                             ▼
+                 Nuxt                         Next.js
+                   │                             │
+                   └──────────────┬──────────────┘
+                                  │
+                                  ▼
+                       ┌────────────────────┐
+                       │    ARCHITECTURE    │
+                       └──────────┬─────────┘
+                                  │
+                                  ▼
+                       ┌────────────────────┐
+                       │  AI ENGINEERING    │
+                       └──────────┬─────────┘
+                                  │
+                       ┌──────────┼──────────┐
+                       ▼          ▼          ▼
+                      LLMs     AI Apps     Agents
+                                  │
+                                  ▼
+                           🚀 SHIP PRODUCTS
 ```
 
 ---
 
 <div align="center">
 
-# 💜 `PHILOSOPHY`
+## `💚 PHILOSOPHY`
 
 <br/>
 
-### **"Don't just write code. Build systems."**
+### **Build things that are simple to use,**
+
+### **easy to maintain, and worth improving.**
 
 <br/>
 
 `CLEAN CODE`
-
-   `•`   
-
+  `•`  
 `PERFORMANCE`
-
-   `•`   
-
+  `•`  
 `UX`
-
-   `•`   
-
+  `•`  
 `SCALABILITY`
-
-   `•`   
-
+  `•`  
 `DX`
 
 </div>
@@ -345,28 +368,28 @@ Scalability
 
 <div align="center">
 
-# 🌐 `ESTABLISH CONNECTION`
+## `📡 CONNECT`
 
 <br/>
 
 <a href="https://github.com/ardalan-shahandeh">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-020420?style=for-the-badge&logo=github&logoColor=00DC82" />
 </a>
 
 <a href="https://www.linkedin.com/in/ardalan-shahandeh">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-020420?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
 </a>
 
 <a href="mailto:shahandeh.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-020420?style=for-the-badge&logo=gmail&logoColor=00DC82" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%96%A4;Let's+build+something+interesting.;The+best+code+is+the+code+that+ships." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=00DC82&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+%F0%9F%92%9A;Keep+building.;Keep+learning.;Keep+shipping." />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:7C3AED,70:4C1D95,100:0D1117&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020420,40:004D40,75:00C58E,100:00DC82&height=130&section=footer" />
 
 </div>
